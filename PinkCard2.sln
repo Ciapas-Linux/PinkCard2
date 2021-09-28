@@ -1,0 +1,21 @@
+Microsoft Visual Studio Solution File, Format Version 7.00
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "PinkCard2", "PinkCard2.vcproj", "{CE7888A0-5369-404F-946B-8E1372EC2FCC}"
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		ConfigName.0 = Debug
+		ConfigName.1 = Release
+	EndGlobalSection
+	GlobalSection(ProjectDependencies) = postSolution
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{CE7888A0-5369-404F-946B-8E1372EC2FCC}.Debug.ActiveCfg = Debug|Win32
+		{CE7888A0-5369-404F-946B-8E1372EC2FCC}.Debug.Build.0 = Debug|Win32
+		{CE7888A0-5369-404F-946B-8E1372EC2FCC}.Release.ActiveCfg = Release|Win32
+		{CE7888A0-5369-404F-946B-8E1372EC2FCC}.Release.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,44 @@
+ 
+// Commands (ID_* and IDM_*) 
+HIDM_ABOUTBOX                           0x10010
+HID_Menu                                0x10087
+HID_PINKCARD2_SHOW                      0x1008E
+HID_TRAYMENU_SHOW1                      0x10091
+HID_TRAYMENU_CLOSE1                     0x10092
+HID_FILE_OPEN158                        0x1009E
+HID_FILE_EDIT                           0x1009F
+HID_SENDMESSAGE_SENDMESSAGE             0x100A1
+HID_SENDMESSAGE_SENDFILES               0x100A2
+HID_SENDMESSAGE_SENDIMAGES              0x100A3
+HID_MENU_SCHEDULESEND                   0x100A4
+HID_MENU_SCHEDULESEND165                0x100A5
+HID_GROUPCONTEXTMENU_SENDMESSAGES       0x100A7
+HID_GROUPCONTEXTMENU_SENDFILES          0x100A8
+HID_GROUPCONTEXTMENU_SENDIMAGES         0x100A9
+HID_GROUPCONTEXTMENU_SCHEDULESEND       0x100AA
+HID_PINKCARD2MENU_ABOUT                 0x100AF
+ 
+// Prompts (IDP_*) 
+HIDP_SOCKETS_INIT_FAILED                0x30067
+ 
+// Resources (IDR_*) 
+HIDR_MANIFEST                           0x20001
+HIDR_TRAY_MENU1                         0x20090
+HIDR_MAINDLG_MENU1                      0x2009C
+HIDR_CONTEXT_HOSTS_MENU1                0x200A0
+HIDR_CONTEXT_GROUP_MENU1                0x200A6
+HIDR_MAINFRAME                          0x200AE
+ 
+// Dialogs (IDD_*) 
+HIDD_ABOUTBOX                           0x20064
+HIDD_PINKCARD2_DIALOG                   0x20066
+HIDD_ADDGROUP_DIALOG                    0x20068
+HIDD_SCHEDULE_SEND_DLG                  0x20069
+HIDD_SEND_MESSAGE_DLG                   0x2006A
+HIDD_FUNGFXMESSAGEBOXDLG                0x2006B
+HIDD_FUNGFXASKMESSAGEBOXDLG             0x2006C
+HIDD_ADDSCHEDULEEVENT_DLG               0x2006D
+HIDD_DIALOG_OPTIONS                     0x20088
+HIDD_DIALOG_GROUPMANAGER                0x20089
+ 
+// Frame Controls (IDW_*) 
